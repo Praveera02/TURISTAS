@@ -16,10 +16,6 @@
 - [Technologies & Packages Used](#technologies--packages-used)
 - [Key Features](#key-features)
 - [Challenges & Solutions](#challenges--solutions)
-- [Special Thanks](#special-thanks)
-- [Author](#author)
-- [Project Link](#project-link)
-- [Thank You](#thank-you)
 
 ## Project Overview
 
